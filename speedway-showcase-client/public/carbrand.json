@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota",
+    "image": "https://i.ibb.co/qn6m86s/toyota-logo.jpg",
+    "description": "Toyota is known for its reliability, offering a wide range of vehicles from fuel-efficient compact cars to rugged off-road SUVs."
+  },
+  {
+    "id": 2,
+    "name": "Ford",
+    "image": "https://i.ibb.co/qdVJGh0/ford-logo.jpg",
+    "description": "Ford is an American automotive legend, producing trucks, cars, and SUVs with a reputation for toughness and innovation."
+  },
+  {
+    "id": 3,
+    "name": "BMW",
+    "image": "https://i.ibb.co/HP8Lc1t/bmw-logo.jpg",
+    "description": "BMW, a German luxury car manufacturer, is synonymous with performance, precision engineering, and elegance."
+  },
+  {
+    "id": 4,
+    "name": "Mercedes",
+    "image": "https://i.ibb.co/Z2yCb17/Mercedes-Benz-logo.jpg",
+    "description": "Mercedes-Benz represents sophistication and cutting-edge technology in the world of luxury automobiles."
+  },
+  {
+    "id": 5,
+    "name": "Tesla",
+    "image": "https://i.ibb.co/FxGDWSj/Tesla-logo-2.jpg",
+    "description": "Tesla is at the forefront of electric vehicle innovation, offering sustainable and high-performance cars."
+  },
+  {
+    "id": 6,
+    "name": "Honda",
+    "image": "https://i.ibb.co/PcrcNt7/honda-logo.jpg",
+    "description": "Honda is known for its reliable and efficient vehicles, from compact cars to family-friendly SUVs."
+  }
+]

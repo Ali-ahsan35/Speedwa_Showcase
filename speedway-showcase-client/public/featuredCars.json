@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Tesla Model S",
+    "image": "https://i.ibb.co/Zzgz2H85/Tesla-Model-S.jpg",
+    "price": "$79,990",
+    "type": "Electric",
+    "mileage": "15,000 miles",
+    "year": 2022
+  },
+  {
+    "id": 2,
+    "name": "BMW X5",
+    "image": "https://i.ibb.co/ZpWFX3sK/BMW-X5.jpg",
+    "price": "$61,700",
+    "type": "SUV",
+    "mileage": "22,000 miles",
+    "year": 2021
+  },
+  {
+    "id": 3,
+    "name": "Toyota Camry",
+    "image": "https://i.ibb.co/jPy6DZG4/Toyota-Camry.jpg",
+    "price": "$28,500",
+    "type": "Sedan",
+    "mileage": "10,500 miles",
+    "year": 2023
+  },
+  {
+    "id": 4,
+    "name": "Ford Mustang GT",
+    "image": "https://i.ibb.co/gMtHJr8d/Ford-Mustang-GT.jpg",
+    "price": "$55,300",
+    "type": "Coupe",
+    "mileage": "8,700 miles",
+    "year": 2022
+  }
+]
